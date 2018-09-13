@@ -24,8 +24,7 @@ united_kingdom = [
 
 
 
-
-united_kingdom(capital:"Swansea") 
+united_kingdom[1][:capital]="Cardiff"
 
 
 united_kingdom.push( name:"Northern Ireland",population:1811000, capital:"Belfast")
